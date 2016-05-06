@@ -1,6 +1,6 @@
 This was the second project of the semester for Introduction to Data Science course (DATS 6101) under GWU's Data Science master's program.
 
-We analyzed data from a Pew Research Center online survey about climate change in order to examine attitudes about global warming across the world.
+We analyzed data from a Pew Research Center online survey about climate change in order to examine attitudes about global warming in the U.S. and across the world.
 
 The questions mapped for this visualization are:
 
